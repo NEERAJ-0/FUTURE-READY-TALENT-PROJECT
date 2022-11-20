@@ -55,15 +55,15 @@ This is a web based application developed for health related based website in in
 We have provided different class and sessions which help you to acheive your fitness goals, and we have all kind of gym equipment. Features we provide are bodybuilding, weight training, cardio, yoga etc
 
 ### Services -
-Modern equipment
-Healthy nutrition plan
-Professional training plan
-Unique to your needs
+- Modern equipment
+- Healthy nutrition plan
+- Professional training plan
+- Unique to your needs
 
 ### Contact us -
 customers can contact us through-
-+91 7889584005
-Support.renforcer@gmail.com
+- +91 7889584005
+- Support.renforcer@gmail.com
 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
