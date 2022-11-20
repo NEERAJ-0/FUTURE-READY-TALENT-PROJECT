@@ -16,7 +16,7 @@ This is a web based application developed for health related based website in in
 - Azure bot
 - Visual Studio Code
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has collection of many web pages including Home, About Us, Contact etc.
@@ -66,7 +66,7 @@ customers can contact us through-
 - +91 7889584005
 - Support.renforcer@gmail.com
 
-## Tech Stack 💻
+## Tech Stack 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
