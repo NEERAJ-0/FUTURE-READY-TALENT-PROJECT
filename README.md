@@ -23,7 +23,7 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Screenshots My Project
 
 ![Renforcer gymcenter - Google Chrome 20-11-2022 12_06_06](https://user-images.githubusercontent.com/110827522/202889716-081e950c-df03-4437-8e47-3c22939df589.png)
 
