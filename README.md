@@ -8,6 +8,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -
+
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -53,7 +54,7 @@ This is a web based application developed for health related based website in in
 
 
 ### About Us -
-We have provided different class and sessions which help you to acheive your fitness goals, and we have all kind of gym equipment. Features we provide are bodybuilding, weight training, cardio, yoga etc
+We have provided different class and sessions which help you to acheive your fitness goals, and we have all kind of gym equipment. Features we provide are bodybuilding, weight training, cardio, yoga etc.
 
 ### Services -
 - Modern equipment
