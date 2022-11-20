@@ -1,5 +1,6 @@
 # FUTURE-READY-TALENT-PROJECT
-# ✨  Project name ✨
+# RENFORCER
+Gym Center
 
 This is a web based application developed for health related based website in india
 
@@ -12,16 +13,14 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- Azure bot
 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Has collection of many web pages including Home, About Us, Contact etc.
+- User can know about FITNESS information through this website.
+- Included the customer support and contact help.
 
 ## Screenshots My Project
 
@@ -53,23 +52,19 @@ This is a web based application developed for health related based website in in
 
 
 ### About Us -
-
-
+We have provided different class and sessions which help you to acheive your fitness goals, and we have all kind of gym equipment. Features we provide are bodybuilding, weight training, cardio, yoga etc
 
 ### Services -
-
-
+Modern equipment
+Healthy nutrition plan
+Professional training plan
+Unique to your needs
 
 ### Contact us -
+customers can contact us through-
++91 7889584005
+Support.renforcer@gmail.com
 
-
-
-### health bot
-
-
-
-
-## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
