@@ -1,6 +1,6 @@
 # FUTURE-READY-TALENT-PROJECT
 # RENFORCER 
-# Gym Center
+## Gym Center
 
 This is a web based application developed for health related based website in india.
 
