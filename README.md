@@ -12,7 +12,6 @@
 
 - Static web apps
 - Azure Health bot
-- Visual Studio Code
 
 ## Features and Functionalities 
 
