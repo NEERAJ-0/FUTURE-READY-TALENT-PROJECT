@@ -11,7 +11,7 @@
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- Azure Health bot
 - Visual Studio Code
 
 ## Features and Functionalities 
