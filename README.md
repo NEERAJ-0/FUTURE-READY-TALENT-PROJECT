@@ -21,11 +21,12 @@
 - User can know about FITNESS information through this website.
 - Included the customer support and contact help.
 
-## Screenshots My Project
-
+# Screenshots of Azure Services 
 ![Azure Health Bot - Microsoft Azure - Google Chrome 25-11-2022 18_18_51](https://user-images.githubusercontent.com/110827522/203989734-c2924c3d-b1cf-4646-b957-27f66a1600fc.png)
+
 ![Azure Health Bot - Microsoft Azure - Google Chrome 25-11-2022 18_12_47](https://user-images.githubusercontent.com/110827522/203989769-ce44a7fd-23ce-4815-a16b-a74768389e71.png)
 
+### Screenshots My Project
 
 # Home
 ![Renforcer gymcenter - Google Chrome 20-11-2022 12_06_06](https://user-images.githubusercontent.com/110827522/202889716-081e950c-df03-4437-8e47-3c22939df589.png)
