@@ -6,7 +6,7 @@
 
 **Project Link** - https://neeraj-0.github.io/FUTURE-READY-TALENT-PROJECT/
 
-**project demo video link** - https://youtu.be/yhFgobGY4qQ
+**project demo video link** - 
 
 ## Azure technologies used for Project
 
