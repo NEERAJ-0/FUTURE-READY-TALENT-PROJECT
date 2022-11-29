@@ -62,8 +62,7 @@
 ## Contact
 ![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_31_30](https://user-images.githubusercontent.com/110827522/204564384-bc970e06-bc75-4709-b6be-4adb51122f23.png)
 
-![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_31_40](https://user-images.githubusercontent.com/110827522/204564462-da23614d-f11d-4f9a-bb13-9fad299ab22b.png)
-
+![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_31_40](https://user-images.githubusercontent.com/110827522/204568963-3f748564-ebe6-4877-8fff-68c1157fc4a9.png)
 ![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_32_52](https://user-images.githubusercontent.com/110827522/204564843-ee7e6d45-de2f-4bd0-ba13-3ed573af15e1.png)
 
 ### About Us -
