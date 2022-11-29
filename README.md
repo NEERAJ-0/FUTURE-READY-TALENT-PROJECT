@@ -44,9 +44,8 @@
 ## GymBot
 ![Azure Health Bot - Microsoft Azure - Google Chrome 25-11-2022 17_51_20](https://user-images.githubusercontent.com/110827522/203985053-c4c20a6a-e198-4076-aef0-1e6a77e6eeac.png)
 
-## About
+## About Us
 ![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_26_43](https://user-images.githubusercontent.com/110827522/204563176-9eee4ec5-f024-454d-9820-789d072da4e5.png)
-Us
 
 ![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_27_07](https://user-images.githubusercontent.com/110827522/204563308-45d07b2c-a4aa-4334-bcc8-813a6464a99a.png)
 
