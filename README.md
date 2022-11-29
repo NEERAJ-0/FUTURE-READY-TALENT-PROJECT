@@ -36,9 +36,10 @@
 
 ![Renforcer gymcenter - Google Chrome 20-11-2022 12_06_24](https://user-images.githubusercontent.com/110827522/202889749-1d31c657-7eed-4013-a6e6-2ec83e1343b7.png)
 
-![Renforcer gymcenter - Google Chrome 20-11-2022 12_18_00](https://user-images.githubusercontent.com/110827522/202889771-9da2ac69-e7a4-4229-a708-5c0b10d58509.png)
+![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_21_33](https://user-images.githubusercontent.com/110827522/204561902-b4b44455-f0f9-497e-9c36-e7950d8ea851.png)
 
-![Renforcer gymcenter - Google Chrome 20-11-2022 12_06_36](https://user-images.githubusercontent.com/110827522/202889783-13445df4-8432-4d3d-bb98-3340c540a830.png)
+![NEERAJ-0_FUTURE-READY-TALENT-PROJECT_ FUTURE READY TALENT PROJECT - Google Chrome 29-11-2022 20_23_45](https://user-images.githubusercontent.com/110827522/204562247-8a16da6e-7d4c-492a-ba33-b245457bbf46.png)
+
 
 ## GymBot
 ![Azure Health Bot - Microsoft Azure - Google Chrome 25-11-2022 17_51_20](https://user-images.githubusercontent.com/110827522/203985053-c4c20a6a-e198-4076-aef0-1e6a77e6eeac.png)
