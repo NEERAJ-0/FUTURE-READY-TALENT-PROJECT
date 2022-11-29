@@ -3,10 +3,9 @@
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
+**Microsoft Azure Static Web Apps link of Project** - https://agreeable-ground-021d69600.2.azurestaticapps.net
 
 **Project Demo Link** - https://neeraj-0.github.io/FUTURE-READY-TALENT-PROJECT/
-
-**Microsoft Azure Static Web Apps link of Project** - https://agreeable-ground-021d69600.2.azurestaticapps.net
 
 **project demo video link** - https://youtu.be/M5CQs1gQmbQ
 
